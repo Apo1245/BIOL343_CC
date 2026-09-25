@@ -1,2 +1,2 @@
 # BIOL343_CC
-data analysis for biology
+This repository contain one R markdown fil (Groupe_4_CC2.Rmd) and the dataset associted (A1_Data_Exel).
